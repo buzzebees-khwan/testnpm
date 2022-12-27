@@ -1,0 +1,25 @@
+{
+  "name": "@buzzebees/bzbs-hello",
+  "version": "1.0.0",
+  "description": "bzbs package v.1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/buzzebees-khwan/testnpm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/buzzebees-khwan/testnpm/issues"
+  },
+  "homepage": "https://github.com/buzzebees-khwan/testnpm#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "dependencies": {
+    "buzzebees/bzbs-hello": "1.0.0"
+  }
+}
