@@ -1,5 +1,5 @@
 {
-  "name": "@buzzebees/bzbs-hello",
+  "name": "@buzzebees/bzbs-hello-world",
   "version": "1.0.0",
   "description": "bzbs package v.1.0.0",
   "main": "index.js",
@@ -20,6 +20,6 @@
     "registry": "https://npm.pkg.github.com"
   },
   "dependencies": {
-    "buzzebees/bzbs-hello": "1.0.0"
+    "@buzzebees/bzbs-hello-world": "1.0.0"
   }
 }
