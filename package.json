@@ -18,8 +18,5 @@
   "homepage": "https://github.com/buzzebees-khwan/testnpm#readme",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
-  },
-  "dependencies": {
-    "@buzzebees/bzbs-hello-world": "1.0.0"
   }
 }
