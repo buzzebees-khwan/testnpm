@@ -1,6 +1,6 @@
 {
   "name": "@buzzebees/bzbs-hello-world",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "bzbs package v.1.0.0",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/buzzebees-khwan/testnpm.git"
+    "url": "git+https://github.com/buzzebees-khwan/testnpm.git"
   },
   "author": "",
   "license": "MIT",
@@ -18,5 +18,8 @@
   "homepage": "https://github.com/buzzebees-khwan/testnpm#readme",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
+  },
+  "dependencies": {
+    "@buzzebees/bzbs-hello-world": "1.0.2"
   }
 }
