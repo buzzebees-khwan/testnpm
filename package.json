@@ -1,6 +1,6 @@
 {
   "name": "@buzzebees/bzbs-hello-world",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "bzbs package v.1.0.0",
   "main": "index.js",
   "scripts": {
